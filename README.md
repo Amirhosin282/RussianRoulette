@@ -86,6 +86,5 @@ python RussianRulet.py
 
 ---
 
-**نویسنده:** amirhosin282  
-**ایمیل:** amirhosinasdpwr@gmail.com  
+
 **توجه:** این پروژه صرفاً برای مقاصد آموزشی ایجاد شده است
